@@ -1,0 +1,5 @@
+{
+  "name": "5-DOF Robotic Arm Code Generator",
+  "description": "A web application that uses AI to generate code for a 5-degree-of-freedom robotic arm based on natural language commands. Select a programming language and describe the task for the robot.",
+  "requestFramePermissions": []
+}
